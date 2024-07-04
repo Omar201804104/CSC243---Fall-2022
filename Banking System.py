@@ -1,11 +1,8 @@
 
 # In this program, i implemented an online banking system.  Users can sign-up with the system, log in to the  system,
-#  change their password, and delete their account.  They can also update their bank account balance and transfer
-# money to another user’s bank account.
-# 
+#  change their password, and delete their account.  They can also update their bank account balance and transfer money to another user’s bank account.
 # User information will be imported from the “users.txt” file and account information will be imported from the “bank.txt” file. After importing, 
 # the information from each file is stored in the dictionary user_accounts and bank respectively.
-# 
 # Each function has been defined. See the docstring in each function for instructions on what the function is supposed to do.
 
 def import_and_create_bank(filename):
